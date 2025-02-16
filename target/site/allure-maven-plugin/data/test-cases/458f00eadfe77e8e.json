@@ -1,0 +1,81 @@
+{
+  "uid" : "458f00eadfe77e8e",
+  "name" : "Переход на страницу авторизации ",
+  "fullName" : "ru.ui.tests.LoginPageTests.goToLoginPageViaLoginAccountLinkTest",
+  "historyId" : "9f99a561743da5f40f713a539b5f57f3",
+  "time" : {
+    "start" : 1739729827571,
+    "stop" : 1739729829723,
+    "duration" : 2152
+  },
+  "description" : "Переход через кнопку 'Личный кабинет' на главной странице",
+  "descriptionHtml" : "<p>Переход через кнопку 'Личный кабинет' на главной странице</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "Переход через кнопку 'Личный кабинет' на главной странице",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f6a79f392966d343",
+      "name" : "Request",
+      "source" : "f6a79f392966d343.html",
+      "type" : "text/html",
+      "size" : 645
+    }, {
+      "uid" : "60adb3b10c96537d",
+      "name" : "HTTP/1.1 401 Unauthorized",
+      "source" : "60adb3b10c96537d.html",
+      "type" : "text/html",
+      "size" : 655
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ru.ui.tests"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.ui.tests.LoginPageTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "goToLoginPageViaLoginAccountLinkTest"
+  }, {
+    "name" : "suite",
+    "value" : "ru.ui.tests.LoginPageTests"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GATO7BH"
+  }, {
+    "name" : "thread",
+    "value" : "14324@DESKTOP-GATO7BH.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "458f00eadfe77e8e.json",
+  "parameterValues" : [ ]
+}

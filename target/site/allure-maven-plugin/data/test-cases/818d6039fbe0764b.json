@@ -1,0 +1,81 @@
+{
+  "uid" : "818d6039fbe0764b",
+  "name" : "Сообщение об ошибке при вводе пароля",
+  "fullName" : "ru.ui.tests.SignUpTests.incorrectPasswordTest",
+  "historyId" : "3dfacfaea5b328add788daf48373f640",
+  "time" : {
+    "start" : 1739729837435,
+    "stop" : 1739729839199,
+    "duration" : 1764
+  },
+  "description" : "Появление ошибки при вводе менее 6сти символов",
+  "descriptionHtml" : "<p>Появление ошибки при вводе менее 6сти символов</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "Появление ошибки при вводе менее 6сти символов",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e13478e5dd3150f1",
+      "name" : "Request",
+      "source" : "e13478e5dd3150f1.html",
+      "type" : "text/html",
+      "size" : 711
+    }, {
+      "uid" : "45784174c2dca2dd",
+      "name" : "HTTP/1.1 401 Unauthorized",
+      "source" : "45784174c2dca2dd.html",
+      "type" : "text/html",
+      "size" : 655
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ru.ui.tests"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.ui.tests.SignUpTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "incorrectPasswordTest"
+  }, {
+    "name" : "suite",
+    "value" : "ru.ui.tests.SignUpTests"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GATO7BH"
+  }, {
+    "name" : "thread",
+    "value" : "14324@DESKTOP-GATO7BH.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "818d6039fbe0764b.json",
+  "parameterValues" : [ ]
+}

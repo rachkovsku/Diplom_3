@@ -1,0 +1,131 @@
+[ {
+  "uid" : "54e0b093dd55bbf8",
+  "name" : "Переход в секцию Начинки",
+  "time" : {
+    "start" : 1739729821121,
+    "stop" : 1739729824280,
+    "duration" : 3159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "458f00eadfe77e8e",
+  "name" : "Переход на страницу авторизации ",
+  "time" : {
+    "start" : 1739729827571,
+    "stop" : 1739729829723,
+    "duration" : 2152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3a66db23b719e50",
+  "name" : "Переход в секцию Булки",
+  "time" : {
+    "start" : 1739729824309,
+    "stop" : 1739729825841,
+    "duration" : 1532
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "289be71304c341ff",
+  "name" : "Переход в секцию соус",
+  "time" : {
+    "start" : 1739729825844,
+    "stop" : 1739729827564,
+    "duration" : 1720
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60e0d7ae689e185",
+  "name" : "Переход на страницу профиля",
+  "time" : {
+    "start" : 1739729848945,
+    "stop" : 1739729851890,
+    "duration" : 2945
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "818d6039fbe0764b",
+  "name" : "Сообщение об ошибке при вводе пароля",
+  "time" : {
+    "start" : 1739729837435,
+    "stop" : 1739729839199,
+    "duration" : 1764
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4014596c6517f1a",
+  "name" : "Переход на страницу авторизации ",
+  "time" : {
+    "start" : 1739729831443,
+    "stop" : 1739729832897,
+    "duration" : 1454
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2beb49f750717a7f",
+  "name" : "Переход на страницу авторизации",
+  "time" : {
+    "start" : 1739729829724,
+    "stop" : 1739729831441,
+    "duration" : 1717
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7bcc0c3d2cade4",
+  "name" : "Переход из личного кабинета на главную страницу",
+  "time" : {
+    "start" : 1739729842719,
+    "stop" : 1739729845729,
+    "duration" : 3010
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd78890b7b86c3ce",
+  "name" : "Проверка регистрации",
+  "time" : {
+    "start" : 1739729834357,
+    "stop" : 1739729837431,
+    "duration" : 3074
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8035181c352affec",
+  "name" : "Переход на страницу авторизации ",
+  "time" : {
+    "start" : 1739729832899,
+    "stop" : 1739729834355,
+    "duration" : 1456
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53a5a3f810b9b241",
+  "name" : "Выход из профиля",
+  "time" : {
+    "start" : 1739729839203,
+    "stop" : 1739729842718,
+    "duration" : 3515
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59ae7586699f91d6",
+  "name" : "Переход из личного кабинета на главную страницу ",
+  "time" : {
+    "start" : 1739729845732,
+    "stop" : 1739729848943,
+    "duration" : 3211
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,81 @@
+{
+  "uid" : "54e0b093dd55bbf8",
+  "name" : "Переход в секцию Начинки",
+  "fullName" : "ru.ui.tests.IngredientTypeTests.selectFillingSectionTest",
+  "historyId" : "ac38b90097521f7ef8288eb79501c3d0",
+  "time" : {
+    "start" : 1739729821121,
+    "stop" : 1739729824280,
+    "duration" : 3159
+  },
+  "description" : "Кликаем по секции и проверяем",
+  "descriptionHtml" : "<p>Кликаем по секции и проверяем</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "Кликаем по секции и проверяем",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "10ef1db036b8c61a",
+      "name" : "Request",
+      "source" : "10ef1db036b8c61a.html",
+      "type" : "text/html",
+      "size" : 645
+    }, {
+      "uid" : "29019b375af27826",
+      "name" : "HTTP/1.1 401 Unauthorized",
+      "source" : "29019b375af27826.html",
+      "type" : "text/html",
+      "size" : 655
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ru.ui.tests"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.ui.tests.IngredientTypeTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "selectFillingSectionTest"
+  }, {
+    "name" : "suite",
+    "value" : "ru.ui.tests.IngredientTypeTests"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GATO7BH"
+  }, {
+    "name" : "thread",
+    "value" : "14324@DESKTOP-GATO7BH.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "54e0b093dd55bbf8.json",
+  "parameterValues" : [ ]
+}

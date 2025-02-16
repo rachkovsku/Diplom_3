@@ -1,0 +1,10 @@
+edu\browser\BrowserSetUp.class
+edu\page\objects\UserProfilePage.class
+edu\page\objects\ForgotPasswordPage.class
+edu\page\objects\LoginPage.class
+edu\page\objects\MainPage.class
+edu\browser\BrowserSetUp$1.class
+edu\page\objects\SignUpPage.class
+edu\page\objects\BaseMethods.class
+edu\browser\BrowserType.class
+edu\Randomizer.class

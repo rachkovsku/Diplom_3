@@ -1,0 +1,7 @@
+ru\ui\tests\UserProfilePageTests.class
+edu\user\request\UserSerialization.class
+ru\ui\tests\SignUpTests.class
+ru\ui\tests\LoginPageTests.class
+edu\user\request\UserMethods.class
+ru\ui\tests\BaseTest.class
+ru\ui\tests\IngredientTypeTests.class

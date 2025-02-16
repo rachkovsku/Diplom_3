@@ -1,0 +1,190 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "ru.ui.tests.IngredientTypeTests",
+    "children" : [ {
+      "name" : "Переход в секцию Начинки",
+      "uid" : "54e0b093dd55bbf8",
+      "parentUid" : "e84225d368729bc5f2d3e6d0f9c7b589",
+      "status" : "passed",
+      "time" : {
+        "start" : 1739729821121,
+        "stop" : 1739729824280,
+        "duration" : 3159
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Переход в секцию Булки",
+      "uid" : "a3a66db23b719e50",
+      "parentUid" : "e84225d368729bc5f2d3e6d0f9c7b589",
+      "status" : "passed",
+      "time" : {
+        "start" : 1739729824309,
+        "stop" : 1739729825841,
+        "duration" : 1532
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Переход в секцию соус",
+      "uid" : "289be71304c341ff",
+      "parentUid" : "e84225d368729bc5f2d3e6d0f9c7b589",
+      "status" : "passed",
+      "time" : {
+        "start" : 1739729825844,
+        "stop" : 1739729827564,
+        "duration" : 1720
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e84225d368729bc5f2d3e6d0f9c7b589"
+  }, {
+    "name" : "ru.ui.tests.LoginPageTests",
+    "children" : [ {
+      "name" : "Переход на страницу авторизации ",
+      "uid" : "458f00eadfe77e8e",
+      "parentUid" : "6830a38e22e84bcb70fc8b2bb4d13cc9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1739729827571,
+        "stop" : 1739729829723,
+        "duration" : 2152
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Переход на страницу авторизации",
+      "uid" : "2beb49f750717a7f",
+      "parentUid" : "6830a38e22e84bcb70fc8b2bb4d13cc9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1739729829724,
+        "stop" : 1739729831441,
+        "duration" : 1717
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Переход на страницу авторизации ",
+      "uid" : "a4014596c6517f1a",
+      "parentUid" : "6830a38e22e84bcb70fc8b2bb4d13cc9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1739729831443,
+        "stop" : 1739729832897,
+        "duration" : 1454
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Переход на страницу авторизации ",
+      "uid" : "8035181c352affec",
+      "parentUid" : "6830a38e22e84bcb70fc8b2bb4d13cc9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1739729832899,
+        "stop" : 1739729834355,
+        "duration" : 1456
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6830a38e22e84bcb70fc8b2bb4d13cc9"
+  }, {
+    "name" : "ru.ui.tests.SignUpTests",
+    "children" : [ {
+      "name" : "Проверка регистрации",
+      "uid" : "bd78890b7b86c3ce",
+      "parentUid" : "19afa2803a7a106a515bfb23031cb1a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1739729834357,
+        "stop" : 1739729837431,
+        "duration" : 3074
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Сообщение об ошибке при вводе пароля",
+      "uid" : "818d6039fbe0764b",
+      "parentUid" : "19afa2803a7a106a515bfb23031cb1a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1739729837435,
+        "stop" : 1739729839199,
+        "duration" : 1764
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "19afa2803a7a106a515bfb23031cb1a3"
+  }, {
+    "name" : "ru.ui.tests.UserProfilePageTests",
+    "children" : [ {
+      "name" : "Выход из профиля",
+      "uid" : "53a5a3f810b9b241",
+      "parentUid" : "39e8d718303aad6fc463563eafb90e76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1739729839203,
+        "stop" : 1739729842718,
+        "duration" : 3515
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Переход из личного кабинета на главную страницу",
+      "uid" : "c7bcc0c3d2cade4",
+      "parentUid" : "39e8d718303aad6fc463563eafb90e76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1739729842719,
+        "stop" : 1739729845729,
+        "duration" : 3010
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Переход из личного кабинета на главную страницу ",
+      "uid" : "59ae7586699f91d6",
+      "parentUid" : "39e8d718303aad6fc463563eafb90e76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1739729845732,
+        "stop" : 1739729848943,
+        "duration" : 3211
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Переход на страницу профиля",
+      "uid" : "60e0d7ae689e185",
+      "parentUid" : "39e8d718303aad6fc463563eafb90e76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1739729848945,
+        "stop" : 1739729851890,
+        "duration" : 2945
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "39e8d718303aad6fc463563eafb90e76"
+  } ]
+}
